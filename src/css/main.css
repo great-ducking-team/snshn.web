@@ -1,0 +1,193 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+
+
+* { 
+    margin: 0; 
+    padding: 0;
+    font-family: Onest, Arial;
+  }
+
+  .header_default {
+    display: block;
+    border-bottom: 1px solid #EBEEF4;
+    height: 90px;
+    }
+
+    .header_lineContent {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .header_flex_container_aligner {
+        display: flex;
+        height: 90px;
+        padding-left: 30px;
+        padding-right: 30px;
+        align-items: center;
+    }
+
+    .header_header_logo {
+        display: block;
+        height: 52px;
+        margin-right: 50px;
+    }
+
+    .header_searchLine-main {
+        margin-right: 50px;
+    }
+
+    .search-input-control form {
+        display: flex;
+        align-items: center;     
+    }
+
+
+    .search_inputArea {
+        height: 36px;
+        border-radius: 12px;
+    }
+
+    .search_inputArea input {
+        height: 36px;
+        width: 250px;
+        padding-left: 32px;
+        font-size: 12px;
+        background-color: #EBEEF4;
+        border-style: none;
+        border-radius: 18px;
+    }
+
+    .search-inputControl-glassIcon {
+        position: absolute;
+        width: 15px;
+        margin-left: 10px;
+    }
+    
+    .header_instrumentCluster-aligner {
+        margin-right: 50px;
+    }
+    .header_instrumentCluster-main {
+        display: flex;
+        height: 36px;
+    }
+
+    #instrumentCluster_pad {
+        margin-right: 32px;
+    }
+
+    #SVG_icons {
+        margin: auto;
+        display: block;
+        height: 24px;
+        margin-bottom: 5px;
+    }
+
+    .header_instrument_type_settings-title {
+        color: #7B7B7B;
+        font-size: 12px;
+    }
+        .header_instrument_type_settings-title:hover {
+            color: #FF0F0F;
+        }
+
+
+    .header_user_interactionMenu{
+        display: flex;
+        cursor: pointer;
+        align-items: center;
+        flex-direction: column;
+        margin-right: 50px;
+    }  
+
+    .pfp_main {
+        display: flex;
+        height: 32px;
+        margin-bottom: 4px;
+    }
+
+    .header_user_interactionMenuUsername {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .header_user_interactionMenuStatus{
+        display: block;
+        height: 6.5px;
+    }
+
+    .header_interactionMenu-aligner {
+        align-content: center;
+        height: 90px;
+    }
+
+    .header_interactionMenu_main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .header_int-menu-location_heading {
+        display: flex;
+        align-items: center;   
+        cursor: pointer; 
+        margin-bottom: 8px;
+    }
+
+    .header_int-menu-location_heading-locateIcon{
+        margin-right: 6px;
+        width: 16px;
+    }
+
+    .header_int-menu-location_heading-text {
+        color: #1441B1;
+        font-size: 12px;
+        font-weight: 600;
+    }
+        .header_int-menu-location_heading-text:hover {
+            color: #FF0F0F;
+        }
+
+    .header_interactionMenu_mainButton-blue {
+        background-color: #1441B1;
+        width: 220px;
+        color: white;
+        height: 32px;
+        font-size: 11px;
+        font-weight: 600;
+        border-style: none;
+        border-radius: 8px;
+        padding-left: 32px;
+        padding-right: 32px;
+        cursor: pointer;
+        
+    }
+
+    .header_interactionMenu_mainButton-blue:hover {
+        background-color: #3259bd;
+    }
+
+
+
+
+    /* PAGE MAIN PART */
+    /* PAGE MAIN PART */
+    /* PAGE MAIN PART */
+
+    
+
+
+
+    
+
+
+
+
+
